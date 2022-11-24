@@ -2,10 +2,8 @@
   "name": "react-mobile-sized-view",
   "version": "2.0.0",
   "description": "Mobile sized view component for React",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "typings": "lib/index.d.ts",
-  "repository": "https://github.com/junhoyeo/react-mobile-sized-view",
+  "main": "src/index.js",
+  "repository": "https://github.com/roziki-dev/react-mobile-sized-view2",
   "author": {
     "name": "JunhoYeo",
     "email": "hanaro0704@naver.com"
