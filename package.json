@@ -16,9 +16,6 @@
   "files": [
     "docs/",
     "src/",
-    "tsconfig.json",
-    ".prettierignore",
-    ".prettierrc.js",
     "README.md",
     "LICENSE"
   ],
