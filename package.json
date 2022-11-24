@@ -14,9 +14,11 @@
     "install-peers": "install-peers -f"
   },
   "files": [
-    "*.*"
     "docs/",
     "src/",
+    "tsconfig.json",
+    ".prettierignore",
+    ".prettierrc.js",
     "README.md",
     "LICENSE"
   ],
