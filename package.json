@@ -16,7 +16,7 @@
     "install-peers": "install-peers -f"
   },
   "files": [
-    "lib",
+    "lib/*",
     "README.md",
     "LICENSE"
   ],
